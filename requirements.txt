@@ -1,0 +1,9 @@
+faster-whisper
+openai
+websockets
+pydub
+sounddevice
+webrtcvad
+numpy
+torch
+ffmpeg-python
